@@ -1,4 +1,4 @@
-import Heading from './components/Heading';
+// import Heading from './components/Heading';
 import Reset_Page from './components/Reset_Page';
 
 
@@ -13,10 +13,10 @@ function App() {
 
 
 <Reset_Page></Reset_Page>
-{/* <div>
-<Heading></Heading>
 
-</div> */}
+{/* <Heading></Heading> */}
+
+
 </div>
 
     
