@@ -1,0 +1,577 @@
+.body-totally{
+    padding: 0;
+    margin: 0;
+    text-decoration: none; 
+     list-style: none;
+    background-color: #45B8E9;
+    
+  }
+  .Heading-page-le{
+
+
+    background-color: #8fa0a7;
+  }
+
+ 
+.h1-tag{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    
+    
+    position: absolute;
+    height: 68px;
+    left: 6.94%;
+   
+    margin-top: 150px;
+    width: 435.22px;
+    height: 48px;
+
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 48px;
+
+color: #FFFFFF;
+ 
+
+/* Inside auto layout */
+
+ flex: none;
+order: 0;
+flex-grow: 1;
+    
+} 
+
+
+
+
+
+ .Paragraph-content{
+margin-top: -20px;
+margin-left: 20px;
+ display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+height: 140px;
+left: 5.90%;
+
+top: 230px;
+
+width: 490px;
+height: 100px;
+
+font-family: 'Times New Roman', Times, serif;
+
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #b82a2a;
+/* background-color: #45B8E9;  */
+
+
+/* Inside auto layout */
+
+ flex: none;
+order: 0;
+flex-grow: 1;
+} 
+
+
+   
+
+.Signup-div-11{
+
+
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 542px;
+height: 822px;
+left: calc(50% - 542px/2 - 53px);
+margin-top: 50px;
+
+margin-left: 150px;
+width: 400px;
+height: 500px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+}
+
+
+.signup-heading-5{
+
+    
+
+
+/* Auto layout */
+
+
+
+
+padding: 30px;
+
+
+position: absolute;
+
+
+
+width: 120px;
+height: 39px;
+margin-left: 10px;
+font-family: 'Times New Roman', Times, serif;
+
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+background-color: white;
+
+
+/* Inside auto layout */
+
+
+
+
+
+}
+
+.writer-1-2{
+
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+
+
+position: absolute;
+
+margin-top: 100px;
+
+
+background: #F5F5F5;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+
+align-self: stretch;
+flex-grow: 0;
+
+position: absolute;
+width: 300px;
+height: 19px;
+left: 50px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+
+}
+
+
+
+.username-1-2{
+
+
+
+/* Auto layout */
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+
+margin-top: 150px;
+/* Frame 52 */
+
+
+width: 340px;
+height: 45px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+position: absolute;
+width: 300px;
+height: 19px;
+left: 50px;
+top: 13px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+}
+
+.email-1-2{
+
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 360px;
+height: 65px;
+left: 30px;
+margin-top: 205px;
+/* Frame 53 */
+
+
+width: 340px;
+height: 45px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+position: absolute;
+width: 300px;
+height: 19px;
+left: 50px;
+top: 13px;
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+}
+
+.password-1-2{
+
+
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+
+/* Frame 54 */
+
+
+width: 340px;
+height: 45px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 300px;
+height: 19px;
+left: 50px;
+top: 258px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+
+}
+
+.confirm-password-2{
+
+
+
+
+
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 360px;
+height: 65px;
+left: 30px;
+top: 244px;
+
+
+/* Frame 55 */
+
+
+width: 340px;
+height: 45px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/*Confirm Password */
+
+
+position: absolute;
+width: 300px;
+height: 19px;
+left: 50px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+    
+}
+
+.sign-up-buton-2{
+
+
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+
+
+margin-top: 377px;
+margin-left: 19px;
+
+
+
+
+
+/* Auto layout */
+
+
+
+justify-content: center;
+align-items: center;
+
+
+
+
+
+/* background: #14ABE4; */
+border-radius: 5px;
+
+
+
+
+
+/* Sign Up */
+
+
+width: 300px;
+height: 19px;
+margin-left: 40px;
+
+
+font-weight: 700;
+font-size: 16px;
+
+
+color: #bb1919;
+
+background-color: #45B8E9;
+
+
+}
+
+ 
+
+@media(max-width: calc(600px - 1px)) {
+
+
+
+    .Signup-div-11{
+
+
+
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 10px;
+        gap: 10px;
+        
+        position: absolute;
+        width: 542px;
+        height: 822px;
+        /* left: calc(50% - 542px/2 - 53px); */
+        margin-top: 100px;
+        
+        margin-left: 140px;
+        width: 400px;
+        height: 500px;
+        
+        background-color: #8d1f1f;
+        border-radius: 50px;
+        
+        
+}
+}
+
+
+
+    
+
+
+@media(max-width: calc(1043px)) {
+    
+    .Paragraph-content{
+    margin-left: -500px;
+    
+    } 
+    .h1-tag{
+        margin-top: 250px;
+    }
+    }
+
+@media(max-width: calc(1023px)) {
+    
+.Paragraph-content{
+margin-left: -500px;
+
+} 
+}
+
+    
+@media(max-width: 769px) {
+  .Signup-div-11{
+
+margin-top: 150;
+    margin-left: 115px;
+
+    
+  }
+  /* .Paragraph-content{
+margin-left: -100px;
+    
+  } */
+  .h1-tag{
+    color: #45B8E9;
+  }
+
+  
+}
+
+   
+@media(max-width: 426px) {
+  .Signup-div-11{
+
+    margin-left: 142px;
+
+    
+  }
+  
+  .h1-tag{
+    color: #45B8E9;
+  }
+}
+  
+@media(max-width: 376px) {
+  .Signup-div-11{
+
+    margin-left: 164px;
+  }
+}
+
+  
+@media(max-width: 320px) {
+    .Signup-div-11{
+  
+      margin-left: 190px;
+    }
+  }
